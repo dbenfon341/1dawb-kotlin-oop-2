@@ -1,1 +1,1 @@
-# 1dawb-kotlin-oop-2
+# Ejercicios básicos del 6 al 10
